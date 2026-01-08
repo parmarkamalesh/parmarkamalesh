@@ -53,22 +53,6 @@ Currently deep-diving into **Python** and expanding my skills in modern technolo
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=parmarkamalesh&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical" alt="Kamalesh's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=parmarkamalesh&theme=radical" alt="GitHub Streak Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parmarkamalesh&layout=compact&hide_title=true&theme=radical" alt="Top Languages" />
-</p>
-
----
-
 ## 💡 Let's Collaborate
 
 I am always open to working on exciting projects and learning new technologies.  
