@@ -113,7 +113,7 @@ Building scalable web applications, booking platforms, payment integrations, and
 
 - 📧 Email: **kamalesh.py@gmail.com**
 - 💼 LinkedIn: **https://linkedin.com/in/kamaleshparmar**
-- 💻 GitHub: **https://github.com/YOUR_GITHUB_USERNAME**
+- 💻 GitHub: **https://github.com/parmarkamalesh**
 
 ---
 
