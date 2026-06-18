@@ -1,65 +1,120 @@
-<h1 align="center">👋 Hi, I'm Kamalesh Parmar</h1>
-<h3 align="center">🚀 Full Stack Developer | Passionate about creating efficient web solutions | Lifelong Learner</h3>
+# Hi 👋, I'm Kamalesh Parmar
 
-<p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400" alt="Developer GIF"/>
-</p>
+### Full Stack Developer | React.js • Next.js • Node.js • MySQL
 
----
-
-## 🌱 About Me
-
-I’m a passionate Full Stack Developer from India, focused on building scalable web applications.  
-Currently deep-diving into **Python** and expanding my skills in modern technologies.
-
-- 💬 I love discussing **JavaScript, React.js, Node.js, SQL, Python**
-- 📫 Reach me at: [kamalesh.py@gmail.com](mailto:kamalesh.py@gmail.com)  
-- ⚡ Fun Fact: I believe a good laugh makes coding even better 😄
+Building scalable web applications, booking platforms, payment integrations, and enterprise dashboards.
 
 ---
 
-## 🔗 Connect with Me
+## 🚀 About Me
 
-<p align="center">
-  <a href="https://twitter.com/kamalesh_py" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/kamalesh_py?label=Follow&style=for-the-badge&logo=twitter" alt="Twitter"/>
-  </a>
-  <a href="https://linkedin.com/in/kamaleshparmar" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Kamalesh%20Parmar-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-  </a>
-  <a href="https://instagram.com/kamalesh_py" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-kamalesh_py-red?style=for-the-badge&logo=instagram" alt="Instagram"/>
-  </a>
-</p>
+- 💼 Full Stack Developer with 3+ years of experience
+- 🏢 Currently working at Bharat Self Drive Car Rental Pvt Ltd
+- 🌐 Specialized in React.js, Next.js, Node.js, Express.js, and MySQL
+- 🔐 Experienced in Authentication, RBAC, KYC Verification, Payment Gateway Integration, and REST APIs
+- 🚗 Building self-drive mobility and marketplace platforms
+- 🌱 Currently learning System Design, Advanced Backend Architecture, and Cloud Technologies
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="40" height="40"/>
-</p>
+### Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Material UI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+
+### Backend
+
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![REST API](https://img.shields.io/badge/REST_API-00599C?style=for-the-badge)
+
+### Database
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### Tools & Platforms
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ---
 
-## 💡 Let's Collaborate
+## 💼 Professional Experience
 
-I am always open to working on exciting projects and learning new technologies.  
-Feel free to reach out on [LinkedIn](https://linkedin.com/in/kamaleshparmar) or [Twitter](https://twitter.com/kamalesh_py) 🚀
+### Bharat Self Drive Car Rental Pvt Ltd
+
+**Full Stack Developer**
+
+#### 🚗 Self-Drive Car Rental Platform
+- Developed and maintained 50+ REST API modules using Node.js, Express.js, MySQL, and Sequelize.
+- Integrated ArthPay and PayU payment gateways.
+- Built booking lifecycle workflows including booking creation, trip extension, cancellation, and payment verification.
+- Developed notification services using Firebase FCM, SMS, WhatsApp, and Email.
+- Implemented Aadhaar verification, DigiLocker integration, and KYC workflows.
+
+#### 🌐 Customer Web Platform
+- Developed a production-grade Next.js application for vehicle booking and customer onboarding.
+- Built OTP authentication, vehicle search, fare calculation, coupon management, and payment workflows.
+- Implemented SEO optimization including dynamic metadata, sitemap generation, and city landing pages.
+- Integrated Google Places APIs for location-based vehicle discovery.
+
+#### 📊 Admin Operations Portal
+- Developed React-based admin dashboards for bookings, fleet management, host onboarding, complaints, referrals, and support.
+- Implemented RBAC, Firebase notifications, Google Maps integration, and centralized API services.
+- Built pricing management, payout tracking, coupon management, and operational reporting modules.
 
 ---
 
-<p align="center">
-  Made with ❤️ by Kamalesh Parmar
-</p>
+## 🔥 Core Skills
+
+- React.js
+- Next.js
+- TypeScript
+- JavaScript
+- Node.js
+- Express.js
+- MySQL
+- MongoDB
+- REST APIs
+- JWT Authentication
+- RBAC
+- Firebase FCM
+- ArthPay
+- PayU
+- Google Maps API
+- DigiLocker
+- Tailwind CSS
+- Material UI
+- AWS EC2
+- Git
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=github-dark-blue)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark)
+
+---
+
+## 📫 Connect With Me
+
+- 📧 Email: **kamalesh.py@gmail.com**
+- 💼 LinkedIn: **https://linkedin.com/in/kamaleshparmar**
+- 💻 GitHub: **https://github.com/YOUR_GITHUB_USERNAME**
+
+---
+
+### ⭐ Building scalable products, solving real-world problems, and continuously learning.
