@@ -2,7 +2,9 @@
 
 ### Full Stack Developer | React.js • Next.js • Node.js • MySQL
 
-Building scalable web applications, booking platforms, payment integrations, and enterprise dashboards.
+🚗 Building production-grade mobility platforms, booking systems, payment integrations, and scalable web applications.
+
+📍 Bengaluru, India
 
 ---
 
@@ -101,11 +103,11 @@ Building scalable web applications, booking platforms, payment integrations, and
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark)
+![Kamalesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=parmarkamalesh&show_icons=true&theme=github_dark)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=github-dark-blue)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=parmarkamalesh&theme=github-dark-blue)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=parmarkamalesh&layout=compact&theme=github_dark)
 
 ---
 
